@@ -1,8 +1,8 @@
 # labspy05
 ## Profil
-Nama : D.Wita Aeni
-Nim : 312110222
-Kelas : TI.21.A.1
+- Nama : D.Wita Aeni
+- Nim : 312110222
+- Kelas : TI.21.A.1
 
 ## Latihan 
 - Buat Dictionary daftar kontak
